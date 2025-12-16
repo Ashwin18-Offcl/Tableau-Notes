@@ -1,3 +1,111 @@
+<!-- ===================== REPOSITORY METRICS ===================== -->
+<p align="center">
+  <img src="https://img.shields.io/github/stars/Ashwin18-Offcl/Tableau-Notes?style=for-the-badge&logo=github&color=FFD700"/>
+  <img src="https://img.shields.io/github/forks/Ashwin18-Offcl/Tableau-Notes?style=for-the-badge&logo=github&color=22c55e"/>
+  <img src="https://img.shields.io/github/watchers/Ashwin18-Offcl/Tableau-Notes?style=for-the-badge&logo=github&color=38bdf8"/>
+  <img src="https://img.shields.io/github/issues/Ashwin18-Offcl/Tableau-Notes?style=for-the-badge&logo=github&color=f97316"/>
+  <img src="https://img.shields.io/github/discussions/Ashwin18-Offcl/Tableau-Notes?style=for-the-badge&logo=github&color=a855f7"/>
+</p>
+
+---
+
+# 📊 Tableau Notes – Dashboard, KPIs & Business Intelligence  
+### *Visual Analytics • UI/UX Dashboards • Insightful Storytelling*
+
+---
+
+## 🖼️ Visual Dashboard Gallery (UI/UX Matrix)
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="Dashboard%202.png" width="100%"/><br/>
+      <b>Interactive Dashboard Layout</b>
+    </td>
+    <td align="center">
+      <img src="Dashboard%20image.webp" width="100%"/><br/>
+      <b>Modern Dashboard UI</b>
+    </td>
+    <td align="center">
+      <img src="KPI.png" width="100%"/><br/>
+      <b>KPI-Driven Analytics</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="business-intelligence-dashboard.avif" width="100%"/><br/>
+      <b>Business Intelligence View</b>
+    </td>
+    <td align="center">
+      <img src="dashboard-design-main-1.jpg" width="100%"/><br/>
+      <b>UX-Focused Dashboard Design</b>
+    </td>
+    <td align="center">
+      <img src="tableau-software.jpg" width="100%"/><br/>
+      <b>Tableau Platform Overview</b>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📌 Introduction
+This repository is a **comprehensive Tableau Notes & Dashboard Design knowledge base**, focused on **visual analytics, KPI-driven insights, and business intelligence storytelling**.  
+It is designed to help learners and professionals understand **how data transforms into decisions through effective dashboards**.
+
+---
+
+## 🎯 Objective of This Repository
+- Build **strong Tableau fundamentals** with real dashboard visuals  
+- Understand **UI/UX principles for analytics dashboards**  
+- Learn **KPI design, layout structuring, and insight extraction**  
+- Bridge the gap between **raw data and executive decision-making**
+
+---
+
+## 🔍 Analysis of Notes
+The notes are structured to explain:
+- 📥 **Data understanding & preparation**
+- 📊 **Worksheet-level visual encoding**
+- 🧩 **Dashboard composition & interactivity**
+- 🎯 **KPI selection and performance tracking**
+- 📖 **Storytelling with data**
+
+Each section focuses on **why a visualization is used**, not just **how**.
+
+---
+
+## 💡 Key Insights from the Notes
+- Effective dashboards prioritize **clarity over complexity**
+- KPIs must align with **business goals**, not just metrics
+- UI/UX design directly impacts **user cognition and decision speed**
+- Storytelling converts dashboards into **actionable narratives**
+
+---
+
+## 🌟 Benefits of These Notes
+- ✅ Beginner-friendly yet **industry-aligned**
+- ✅ Strong focus on **real-world dashboards**
+- ✅ Improves **analytical thinking and visualization logic**
+- ✅ Useful for **students, analysts, and educators**
+
+---
+
+## 🚀 Importance of These Notes
+In modern analytics roles, tools alone are not enough.  
+These notes help you:
+- Think like a **BI professional**
+- Design dashboards that **communicate insights instantly**
+- Build portfolios that **stand out visually and conceptually**
+
+---
+
+## 🧠 Summary
+This Tableau Notes repository is not just documentation—it is a **visual learning system**.  
+It emphasizes **design thinking, analytics logic, and storytelling**, enabling learners to create **decision-ready dashboards** with confidence.
+
+---
+
 
 ```mermaid
 flowchart LR
@@ -62,4 +170,16 @@ flowchart LR
     R --> R2[Business Intelligence]:::insight
     R --> R3[Data-Driven Strategy]:::insight
 ```
+---
+## 🌐 Connect With Me
 
+<p align="left">
+  <a href="https://www.linkedin.com/in/ashwin-panbude-27b824253/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Ashwin_Panbude-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://www.kaggle.com/ashwinpanbude18" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-Ashwin_Panbude-20BEFF?style=for-the-badge&logo=kaggle"/>
+  </a>
+</p>
+
+---
