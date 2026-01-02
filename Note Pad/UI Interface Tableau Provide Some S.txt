@@ -1,0 +1,115 @@
+Tableau Desktop 14 days free trial.(Without any restriction) (Trial Extention After 14 days expire you need to buy product key)
+
+Every thing is same tableau public and tableau desktop
+
+UI Interface Tableau Provide Some Sample Workbooks Also.
+
+Accelerators is a pre build templates.
+
+Tableau provides different various types of resourses in discover section.
+
+What is a dashboard is collection of sheets.
+
+What is a story?
+
+Story is collection of dashboard and sheets ( It is a kind of presentation)
+
+In data pane what is a connection shows in your data pane.
+
+Data source name will be mentions that.
+
+What is table all the columns and rows in your data.
+
+Tableau is always generate own fields. Tableau generative or self generative.
+
+In one sheet only make one visualization over here.
+
+Tableau is dragging and dropping system.
+
+Use of column shelf use of row shelf use of page shelf you make the visualization.
+
+In tableau have a basic charts.
+
+All the chart you have to need customize features.
+
+(What is dimensions and measures. For example Bar Chart Is One Dimension and One Fact.)
+
+On which he can aggregate 
+
+Just fields drag and drop automatically tableau build own chart.
+
+In one tableau is one sheet is one table. You need to make a new worksheet
+
+In tableau every new visualization making a new sheet.
+
+You need to master Tableau learn how to use shelf master.
+
+Dashboard is called a collection of sheets
+
+Important Panes Is (Sheet, Dashboard and Storyboard)
+
+Swapping is changing the row into column and column into rows is called swapping.
+
+Master Formatting Options To Apply Psycological Techniques To Represent The Information.
+
+One worksheet is equal to one dashboard.
+
+What works each tool? What is a function of tools.
+
+Adjusted entire visualization fix it according to height.
+
+The Summary option in Tableau provides a fast, automated snapshot of your dataset.
+
+Why use tableau to solve the Metadata Queries.
+
+Real World Business Use Cases.
+
+Data is arrange in alphabetical order.
+
+Measures is number which is has perform the mathematical calculations.
+
+(All the dimentions are blue and all the measures are green)
+
+Data are descrite and data are continuous. 
+
+Discrete data: Countable values with no intermediate numbers.
+
+Continuous data: Measurable values that can take any value within a range.
+
+
+Apps
+
+The Summary option in Tableau provides a fast, automated snapshot of your dataset, enabling analysts to check accuracy, completeness, and readiness before creating dashboards or applying calculations.
+
+If you want, I can also:
+
+Explain Summary vs Metadata tab
+
+Provide exam-oriented Q&A
+
+Show real-world business use cases
+
+Convert this into PDF notes for students
+
+what is .hyperfile in tableau
+
+What is a .hyper File in Tableau?
+Tableau uses the .hyper file as its high-performance data extract format, designed for fast analytics and large-scale data processing.
+
+Why Tableau Uses .hyper Files
+
+Tableau introduced Hyper to:
+
+Improve query speed
+
+Handle millions to billions of rows
+
+Reduce dependency on live databases
+
+Support advanced analytics at scale
+
+
+
+
+*** Interview without going to the data sourse how it works tell me ( Whether it is live connection or extract connection).
+Extract-- Refresh--

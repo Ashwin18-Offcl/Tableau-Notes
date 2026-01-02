@@ -1,0 +1,60 @@
+Tableau is made by salesforce
+
+It is a BI software, create interactive and sharable dashboard.
+
+Understand UI Of Tableau
+First page is data source page.
+
+Different Products of Tableau.
+
+1. Tableau Desktop
+2. Tableau Public
+3. Tableau Server - enterprise level feature where wee can share our dashboard.
+4. Tableau Online 
+5. Tableau Reader
+6. Tableau Preap  ( Tableau Extract Data From Local System) (ETL form) Just like power bi it is total different 
+Excel with integrated 
+7. Tableau Pulse - Generative AI in Tableau (We learn the tableau in developer of dashboard) with new perspective.
+8. 
+
+Installation of tableau
+1. Tableau Desktop Download Official Website
+2.You have product key or licence key just you start your free trial.
+3.Tableau Public Download
+
+Data profile creating a proper profile for giving actual information of how many columns are there what are the data what are the data types. It is called metadata.
+
+Two forms of connections.
+
+How to build connections with data live or extract connection.
+
+Live connections means a tableau is connected real time basis to the data source.
+It is directly connected to the data source.
+
+The data is loading on actual server not live server.
+Tableau directly connected the data you can read the data.
+
+In live the data is not ( Where is refresh button)
+
+How to establish connection with that data.
+
+Tableau writes queries to the backend to the data.
+It just retrive the data and read.
+
+Tableau connect the data to its own system.
+
+Small data easy to fast load. The data is coming for the actual source to data.
+
+EXTRACT means snapshot of your data.
+The data is extracted to its actual data source.
+Power BI and Tableau have schedule refresh.
+
+Whether it is save it in tableau either it is save it inn PDF or .TDE format .HyperFile
+
+Filter is most important aspect in tableau from work perspective as well as  interview perspective.
+
+You hide it your field in columns.
+
+In Data Types Colours Have Meanings.
+
+
