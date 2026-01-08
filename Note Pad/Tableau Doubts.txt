@@ -1,3 +1,12 @@
+
+Based on Data-Heatmap is for 3 dimensional representation, tree map is for hierarchical data
+Focus- heat maps on intensity and variations, tree maps focus on proportions and hierarchical structure layout -
+
+Dual Axis - two measures + two marks cards +two different axis scales.
+
+
+
+
 Tableau Doubts
 
 How to colour these things?
@@ -6,3 +15,21 @@ Tableau Important Tools?
 Tableau hidden features?
 What values which values connection to show in proper way without any error?
 How to do with separation with proper connection to show insights
+
+Tableau Transaction Dashboard
+Environmental Data
+
+
+
+
+1. Copy and paste formatting on sheet
+2. Tableau Worksheet Use Cases
+3. Tableau Optimizer
+4. Tableau Map Tab
+5. How to connect tableau with Jupyter Notebook (Give me steps of connection building)
+6. What is line discete
+7. How to export and share PDF Format
+8. How to think on data? How to think on problems related data analysis.
+9. Hidden features in tableau?
+10. How to solve data related problems
+11. 

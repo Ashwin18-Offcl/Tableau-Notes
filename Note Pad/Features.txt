@@ -1,2 +1,9 @@
 Cross Tab is a technically called as metrics
 Power BI is called cross tab
+One worksheet is one chart
+Multiple charts in one workbook
+
+In dimensions not perform arithmetic operations
+On measures perform arithmetic measures
+# icons shows numbers
+ 
